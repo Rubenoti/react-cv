@@ -1,0 +1,14 @@
+.experience_part{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 50%;
+    margin:10px;
+    
+    &__item{
+        margin: 20px;
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+    }
+}

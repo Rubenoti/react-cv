@@ -1,0 +1,17 @@
+.about {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 200px;
+  width: 500px;
+  margin: 20px;
+  h2 {
+    width: 100%;
+    text-align: center;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    font-size: 30px;
+    margin: 20px 0;
+  }
+}
